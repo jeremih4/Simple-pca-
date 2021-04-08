@@ -25,5 +25,3 @@ I consult the scree plot and/or cross validation, to help determine the number o
 
 I conclude by predicting on unseen data and showing the classification error
 
-## Note
-- I used this data for on of my class assignments
